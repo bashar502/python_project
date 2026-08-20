@@ -25,12 +25,15 @@
 # city = "bhubneswar"
 # print(name,age,city)
 
-name = "bashar"
-age = 20
-city = "bhubneswar"
-print(name,age,city)
+# name = "bashar"
+# age = 20
+# city = "bhubneswar"
+# print(name,age,city)
 
-print(f"My name is {name} from {city} & I'm {age}")
+# print(f"My name is {name} from {city} & I'm {age}")
+
+
+print ("Hello World")
 
 
 
